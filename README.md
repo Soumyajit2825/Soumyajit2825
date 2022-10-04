@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumyajit Mondal</h1>
 <h3 align="center">A passionate learner</h3>
 
-- 🌱 I’m currently learning **Computer Science(BS)-Computer Science and Business System**
+- 🌱 I’m currently learning **B.Tech Computer Science(BS)-Computer Science and Business System**
 
 - 👯 I’m looking to collaborate on **open source programming**
 
