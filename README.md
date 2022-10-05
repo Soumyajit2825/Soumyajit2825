@@ -1,4 +1,4 @@
-
+[![MasterHead](https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=2000)]
 <h1 align="center">Hi 👋, I'm Soumyajit Mondal</h1>
 <h3 align="center">A passionate learner</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
