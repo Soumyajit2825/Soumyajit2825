@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/soumyajit200328" target="blank"><img src="https://img.shields.io/twitter/follow/soumyajit200328?logo=twitter&style=for-the-badge" alt="soumyajit200328" /></a> </p>
 
-- 🌱 I’m currently learning **Web-Development and App-Development**
+- 🌱 I’m currently learning **Web-Development◽and App-Development along with DSA🧠**
 
 - 👯 I’m looking to collaborate on **open source projects based on web-dev**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mondalsoumya02@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **🐐Visca el Barça🥅** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
