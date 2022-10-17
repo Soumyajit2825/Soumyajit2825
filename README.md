@@ -36,3 +36,4 @@
 <br>
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit2825&theme=vue-dark&hide_border=true&border_radius=5.2" alt="soumyajit2825" /></p>
 <br>
+[![@soumyajt's Holopin board](https://holopin.me/soumyajt)](https://holopin.io/@soumyajt)
