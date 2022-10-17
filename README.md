@@ -1,4 +1,5 @@
 ![MasterHead](https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=2000)
+[![@soumyajt's Holopin board](https://holopin.me/soumyajt)](https://holopin.io/@soumyajt)
 <h1 align="center">Hi 👋, I'm Soumyajit Mondal</h1>
 <h3 align="center">A passionate learner</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
@@ -36,4 +37,4 @@
 <br>
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit2825&theme=vue-dark&hide_border=true&border_radius=5.2" alt="soumyajit2825" /></p>
 <br>
-[![@soumyajt's Holopin board](https://holopin.me/soumyajt)](https://holopin.io/@soumyajt)
+
