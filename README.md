@@ -37,4 +37,6 @@
 <br>
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit2825&theme=vue-dark&hide_border=true&border_radius=5.2" alt="soumyajit2825" /></p>
 <br>
-
+<p align="left">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=soumyajit2825&theme=xcode" />
+</p>
