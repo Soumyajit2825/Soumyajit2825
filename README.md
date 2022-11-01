@@ -37,9 +37,7 @@
 | [To-Do-List](https://soumyajit2825.github.io/TO-DO-LIST/to_do.html) | A simple to-do-list webpage using HTML,CSS and JavaScript |
 | [Word Scramble Game](https://soumyajit2825.github.io/Marvel-Word-Scarmble-Game/) | Over the past few years ,The Marvel Cinematic Universe (MCU) has put out a ton of great entertainment. Thus , we wanted to build a game that will create a twist on the classic word game ' Scramble' , based on MARVEL FILMS. We all love the MARVEL CINEMATIC UNIVERSE |
 
-
 ---
-
 
 <h2>GitHub Stats</h2>
 <img align="right" width=320px border-radius="5 px" alt="Bunny" src="https://media.tenor.com/OrSyAesEiZQAAAAi/lovely-tuji-bunny.gif" />
