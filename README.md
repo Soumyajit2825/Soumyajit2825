@@ -4,9 +4,8 @@
 <h1 align="center">Hello 👋, I'm Soumyajit Mondal</h1>
 <h3 align="center">A passionate learner</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyajit2825&label=Profile%20views&color=0e75b6&style=flat" alt="soumyajit2825" /> </p>
-
-<p align="left"> <a href="https://twitter.com/soumyajit200328" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="soumyajit200328" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyajit2825&label=Profile%20views&color=0e75b6&style=flat" alt="Soumyajit2825" /> </p>
+<p align="left"> <a href="https://twitter.com/soumyajit200328"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="soumyajit200328" /></a> </p>
 
 - 🌱 I’m currently learning **Web-Development◽and App-Development along with DSA🧠**
 
