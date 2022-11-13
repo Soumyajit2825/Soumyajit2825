@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Web-Development◽and App-Development along with DSA🧠**
 
-- 👯 I’m looking to collaborate on **open source projects based on web-dev**
+- 👯 I’m looking to collaborate on **Projects based on web-dev**
 
-- 🤝 I’m looking for help with **a team or a group**
+- 🤝 I’m looking for help with **Android Development**
 
 - 📫 How to reach me **mondalsoumya02@gmail.com**
 
