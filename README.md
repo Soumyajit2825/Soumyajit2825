@@ -47,9 +47,4 @@
 <br>
 
 ---
-#### Contribution Graph 🎡
-<p align="left">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=soumyajit2825&theme=xcode" />
-</p>
 
----
