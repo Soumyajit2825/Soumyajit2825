@@ -33,6 +33,7 @@
 | [MESSI_MANIA](https://soumyajit2825.github.io/MESSI_MANIA/) | A fan made web-page of LIONEL MESSI🧡 |
 | [To-Do-List](https://soumyajit2825.github.io/TO-DO-LIST/to_do.html) | A simple to-do-list webpage using HTML,CSS and JavaScript |
 | [Word Scramble Game](https://soumyajit2825.github.io/Marvel-Word-Scarmble-Game/) | Over the past few years ,The Marvel Cinematic Universe (MCU) has put out a ton of great entertainment. Thus , we wanted to build a game that will create a twist on the classic word game ' Scramble' , based on MARVEL FILMS. We all love the MARVEL CINEMATIC UNIVERSE |
+| [FOOD WEBSITE](https://soumyajit2825.github.io/FOOD-WEBSITE/) | A food ordering website(frontend) using HTML,CSS and JS |
 
 ---
 
