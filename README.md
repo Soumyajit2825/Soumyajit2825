@@ -1,4 +1,5 @@
-![MasterHead](https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=2000)
+![MasterHead](https://miro.medium.com/max/1000/1*unmVsOH7qujPeBwFN5Y2Zw.png)
+
 [![@soumyajt's Holopin board](https://holopin.me/soumyajt)](https://holopin.io/@soumyajt)
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1 align="center">Hello 👋, I'm Soumyajit Mondal</h1>
