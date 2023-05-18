@@ -29,11 +29,16 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 &nbsp;
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/> </a> 
+&nbsp;
+<a href="" target="_blank"> <img src="https://jquery-plugins.net/image/plugin/chakra-ui-simple-modular-accessible-ui-components-for-react-applications.png" alt="chakra ui" width="40" height="40"/> </a> 
+&nbsp;
+<a href="" target="_blank"> <img src="https://www.malwarebytes.com/blog/news/2023/03/easset_upload_file13810_262604_e.png" alt="github" width="40" height="40" /> </a>
 </p>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Projects 💼:
+## Projects 💼:[
+](https://jquery-plugins.net/image/plugin/chakra-ui-simple-modular-accessible-ui-components-for-react-applications.png)
 | Project Name | Description |
 | -----------  | ----------- |
 | [MESSI_MANIA](https://soumyajit2825.github.io/MESSI_MANIA/) | A fan made web-page of LIONEL MESSI🧡 |
