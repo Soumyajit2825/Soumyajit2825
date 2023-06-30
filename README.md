@@ -1,6 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1000/1*unmVsOH7qujPeBwFN5Y2Zw.png)
-
-[![@soumyajt's Holopin board](https://holopin.me/soumyajt)](https://holopin.io/@soumyajt)
+![MasterHead](https://github.com/Soumyajit2825/Soumyajit2825/assets/100519291/f9c691c3-366a-4548-8431-fd8c7f5f9e37)
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1 align="center">Hello 👋, I'm Soumyajit Mondal</h1>
 <h3 align="center">A passionate learner</h3>
