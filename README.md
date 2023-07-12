@@ -41,6 +41,7 @@
 | [To-Do-List](https://soumyajit2825.github.io/TO-DO-LIST/to_do.html) | A simple to-do-list webpage using HTML,CSS and JavaScript |
 | [Word Scramble Game](https://soumyajit2825.github.io/Marvel-Word-Scarmble-Game/) | Over the past few years ,The Marvel Cinematic Universe (MCU) has put out a ton of great entertainment. Thus , we wanted to build a game that will create a twist on the classic word game ' Scramble' , based on MARVEL FILMS. We all love the MARVEL CINEMATIC UNIVERSE |
 | [FOOD WEBSITE](https://soumyajit2825.github.io/FOOD-WEBSITE/) | A food ordering website(frontend) using HTML,CSS and JS |
+| [Krishi-Samarth](https://github.com/Soumyajit2825/Krishi-Samarth) | Krishisamarth is a trusted and innovative platform that serves as a dynamic hub for farmers, agricultural experts, and enthusiasts. Our relentless commitment to revolutionizing farming practices drives us to provide an extensive array of resources, advanced tools, and interactive knowledge-sharing platforms. Our primary goal is to empower farmers with comprehensive support, enabling them to make well-informed decisions and embrace sustainable farming practices. By fostering a strong community-driven environment, farmers can effortlessly connect with industry experts, gain access to invaluable insights, and acquire the best practices to optimize their agricultural operations effectively. |
 
 ---
 
