@@ -3,11 +3,11 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFFFF&center=true&repeat=false&width=450&lines=Soumyajit+Mondal" alt="Typing SVG" /></a>
 </p>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
   <a href="https://github.com/Soumyajit2825/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Open%20Source%20Enthusiast;Always%20learning%20new%20Stuffs&font=Fira%20Code&center=true&width=440&height=45&color=1BFFDF&vCenter=true&pause=1000&size=22" /></a>
 </p>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyajit2825&label=Profile%20views&color=0e75b6&style=flat" alt="Soumyajit2825" /> </p>
 
