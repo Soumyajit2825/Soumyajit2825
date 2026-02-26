@@ -1,4 +1,3 @@
-![Picsart_24-08-05_23-15-31-798](https://github.com/user-attachments/assets/6f7d8455-89e4-43c9-8515-d5fb18ed4ed6)
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFFFF&center=true&repeat=false&width=450&lines=Soumyajit+Mondal" alt="Typing SVG" /></a>
